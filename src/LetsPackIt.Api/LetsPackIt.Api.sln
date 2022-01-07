@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsPackIt.Api", "LetsPackIt.Api.csproj", "{86F5C83F-1DFD-4A69-B4D1-BFBCE29A08DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F5C83F-1DFD-4A69-B4D1-BFBCE29A08DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F5C83F-1DFD-4A69-B4D1-BFBCE29A08DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F5C83F-1DFD-4A69-B4D1-BFBCE29A08DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F5C83F-1DFD-4A69-B4D1-BFBCE29A08DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
