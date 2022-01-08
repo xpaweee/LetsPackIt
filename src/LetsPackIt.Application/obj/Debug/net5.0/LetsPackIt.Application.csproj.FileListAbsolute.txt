@@ -1,0 +1,12 @@
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/bin/Debug/net5.0/LetsPackIt.Application.deps.json
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/bin/Debug/net5.0/LetsPackIt.Application.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/bin/Debug/net5.0/ref/LetsPackIt.Application.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/bin/Debug/net5.0/LetsPackIt.Application.pdb
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/obj/Debug/net5.0/LetsPackIt.Application.csproj.AssemblyReference.cache
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/obj/Debug/net5.0/LetsPackIt.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/obj/Debug/net5.0/LetsPackIt.Application.AssemblyInfoInputs.cache
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/obj/Debug/net5.0/LetsPackIt.Application.AssemblyInfo.cs
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/obj/Debug/net5.0/LetsPackIt.Application.csproj.CoreCompileInputs.cache
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/obj/Debug/net5.0/LetsPackIt.Application.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/obj/Debug/net5.0/ref/LetsPackIt.Application.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/obj/Debug/net5.0/LetsPackIt.Application.pdb

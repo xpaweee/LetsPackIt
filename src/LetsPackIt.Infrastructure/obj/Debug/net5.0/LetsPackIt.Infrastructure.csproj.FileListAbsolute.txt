@@ -1,0 +1,12 @@
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Infrastructure.deps.json
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Infrastructure.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/ref/LetsPackIt.Infrastructure.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Infrastructure.pdb
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/obj/Debug/net5.0/LetsPackIt.Infrastructure.csproj.AssemblyReference.cache
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/obj/Debug/net5.0/LetsPackIt.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/obj/Debug/net5.0/LetsPackIt.Infrastructure.AssemblyInfoInputs.cache
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/obj/Debug/net5.0/LetsPackIt.Infrastructure.AssemblyInfo.cs
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/obj/Debug/net5.0/LetsPackIt.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/obj/Debug/net5.0/LetsPackIt.Infrastructure.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/obj/Debug/net5.0/ref/LetsPackIt.Infrastructure.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/obj/Debug/net5.0/LetsPackIt.Infrastructure.pdb

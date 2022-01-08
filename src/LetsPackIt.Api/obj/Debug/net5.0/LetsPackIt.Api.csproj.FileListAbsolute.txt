@@ -21,3 +21,6 @@
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Api/obj/Debug/net5.0/staticwebassets/LetsPackIt.Api.StaticWebAssets.Manifest.cache
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Api/obj/Debug/net5.0/LetsPackIt.Api.RazorTargetAssemblyInfo.cache
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Api/obj/Debug/net5.0/LetsPackIt.Api.genruntimeconfig.cache
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Api/bin/Debug/net5.0/LetsPackIt.Infrastructure.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Api/bin/Debug/net5.0/LetsPackIt.Infrastructure.pdb
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Api/obj/Debug/net5.0/LetsPackIt.Api.csproj.CopyComplete

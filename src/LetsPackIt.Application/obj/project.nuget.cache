@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PhiXSTL5ZscQj7SYFw2E2XPlklx/8hmBCuOZwyxI5Rh6RvFgHa3Jo6ChdTFzvv7j6wmeSSziD2MKEm4qTvf2Xw==",
+  "success": true,
+  "projectFilePath": "/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/LetsPackIt.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/xpaweee/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

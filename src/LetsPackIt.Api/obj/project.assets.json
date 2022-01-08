@@ -1,11 +1,84 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "LetsPackIt.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "LetsPackIt.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LetsPackIt.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LetsPackIt.Application.dll": {}
+        }
+      },
+      "LetsPackIt.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "LetsPackIt.Shared.Abstractions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LetsPackIt.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LetsPackIt.Domain.dll": {}
+        }
+      },
+      "LetsPackIt.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "LetsPackIt.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LetsPackIt.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LetsPackIt.Infrastructure.dll": {}
+        }
+      },
+      "LetsPackIt.Shared.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/LetsPackIt.Shared.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LetsPackIt.Shared.Abstractions.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "LetsPackIt.Application/1.0.0": {
+      "type": "project",
+      "path": "../LetsPackIt.Application/LetsPackIt.Application.csproj",
+      "msbuildProject": "../LetsPackIt.Application/LetsPackIt.Application.csproj"
+    },
+    "LetsPackIt.Domain/1.0.0": {
+      "type": "project",
+      "path": "../LetsPackIt.Domain/LetsPackIt.Domain.csproj",
+      "msbuildProject": "../LetsPackIt.Domain/LetsPackIt.Domain.csproj"
+    },
+    "LetsPackIt.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../LetsPackIt.Infrastructure/LetsPackIt.Infrastructure.csproj",
+      "msbuildProject": "../LetsPackIt.Infrastructure/LetsPackIt.Infrastructure.csproj"
+    },
+    "LetsPackIt.Shared.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../LetsPackIt.Shared.Abstractions/LetsPackIt.Shared.Abstractions.csproj",
+      "msbuildProject": "../LetsPackIt.Shared.Abstractions/LetsPackIt.Shared.Abstractions.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "LetsPackIt.Infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/xpaweee/.nuget/packages/": {}
@@ -31,7 +104,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/LetsPackIt.Infrastructure.csproj": {
+              "projectPath": "/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/LetsPackIt.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

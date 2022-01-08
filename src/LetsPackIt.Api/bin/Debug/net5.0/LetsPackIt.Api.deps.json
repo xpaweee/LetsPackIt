@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "LetsPackIt.Api/1.0.0": {
         "dependencies": {
+          "LetsPackIt.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -322,6 +323,14 @@
         },
         "compile": {
           "LetsPackIt.Api.dll": {}
+        }
+      },
+      "LetsPackIt.Infrastructure/1.0.0": {
+        "runtime": {
+          "LetsPackIt.Infrastructure.dll": {}
+        },
+        "compile": {
+          "LetsPackIt.Infrastructure.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2026,6 +2035,11 @@
   },
   "libraries": {
     "LetsPackIt.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LetsPackIt.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

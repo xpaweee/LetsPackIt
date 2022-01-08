@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b258f740-509a-49da-82ef-4137c19d6fc2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/LetsPackIt.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/LetsPackIt.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/bin/Debug/net5.0/LetsPackIt.Api.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/bin/Debug/net5.0/LetsPackIt.Api.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/bin/Debug/net5.0/LetsPackIt.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/bin/Debug/net5.0/LetsPackIt.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/bin/Debug/net5.0/LetsPackIt.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/bin/Debug/net5.0/LetsPackIt.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/obj/Debug/net5.0/LetsPackIt.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/obj/Debug/net5.0/LetsPackIt.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/obj/Debug/net5.0/LetsPackIt.Api.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/obj/Debug/net5.0/LetsPackIt.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/obj/Debug/net5.0/LetsPackIt.Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/obj/Debug/net5.0/LetsPackIt.Api.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/obj/Debug/net5.0/LetsPackIt.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/obj/Debug/net5.0/LetsPackIt.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/obj/Debug/net5.0/LetsPackIt.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/obj/Debug/net5.0/LetsPackIt.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/obj/LetsPackIt.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/obj/LetsPackIt.Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsPackIt.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../LetsPackIt.Api/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="23QjmOSqsDQ4XcVy2QPodAOLx6Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b258f740-509a-49da-82ef-4137c19d6fc2" name="Changes" comment="" />
+      <created>1641673362996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641673362996</updated>
+      <workItem from="1641673366188" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
