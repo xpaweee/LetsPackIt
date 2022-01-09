@@ -1,0 +1,12 @@
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared.Abstractions/bin/Debug/net5.0/LetsPackIt.Shared.Abstractions.deps.json
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared.Abstractions/bin/Debug/net5.0/LetsPackIt.Shared.Abstractions.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared.Abstractions/bin/Debug/net5.0/ref/LetsPackIt.Shared.Abstractions.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared.Abstractions/bin/Debug/net5.0/LetsPackIt.Shared.Abstractions.pdb
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared.Abstractions/obj/Debug/net5.0/LetsPackIt.Shared.Abstractions.csproj.AssemblyReference.cache
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared.Abstractions/obj/Debug/net5.0/LetsPackIt.Shared.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared.Abstractions/obj/Debug/net5.0/LetsPackIt.Shared.Abstractions.AssemblyInfoInputs.cache
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared.Abstractions/obj/Debug/net5.0/LetsPackIt.Shared.Abstractions.AssemblyInfo.cs
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared.Abstractions/obj/Debug/net5.0/LetsPackIt.Shared.Abstractions.csproj.CoreCompileInputs.cache
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared.Abstractions/obj/Debug/net5.0/LetsPackIt.Shared.Abstractions.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared.Abstractions/obj/Debug/net5.0/ref/LetsPackIt.Shared.Abstractions.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared.Abstractions/obj/Debug/net5.0/LetsPackIt.Shared.Abstractions.pdb

@@ -7,14 +7,53 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "LetsPackIt.Infrastructure/1.0.0": {
+        "dependencies": {
+          "LetsPackIt.Application": "1.0.0"
+        },
         "runtime": {
           "LetsPackIt.Infrastructure.dll": {}
+        }
+      },
+      "LetsPackIt.Application/1.0.0": {
+        "dependencies": {
+          "LetsPackIt.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LetsPackIt.Application.dll": {}
+        }
+      },
+      "LetsPackIt.Domain/1.0.0": {
+        "dependencies": {
+          "LetsPackIt.Shared.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "LetsPackIt.Domain.dll": {}
+        }
+      },
+      "LetsPackIt.Shared.Abstractions/1.0.0": {
+        "runtime": {
+          "LetsPackIt.Shared.Abstractions.dll": {}
         }
       }
     }
   },
   "libraries": {
     "LetsPackIt.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LetsPackIt.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LetsPackIt.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LetsPackIt.Shared.Abstractions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

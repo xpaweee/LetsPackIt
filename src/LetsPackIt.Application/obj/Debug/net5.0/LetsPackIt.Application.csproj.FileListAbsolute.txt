@@ -10,3 +10,8 @@
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/obj/Debug/net5.0/LetsPackIt.Application.dll
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/obj/Debug/net5.0/ref/LetsPackIt.Application.dll
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/obj/Debug/net5.0/LetsPackIt.Application.pdb
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/bin/Debug/net5.0/LetsPackIt.Domain.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/bin/Debug/net5.0/LetsPackIt.Shared.Abstractions.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/bin/Debug/net5.0/LetsPackIt.Domain.pdb
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/bin/Debug/net5.0/LetsPackIt.Shared.Abstractions.pdb
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/obj/Debug/net5.0/LetsPackIt.Application.csproj.CopyComplete

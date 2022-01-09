@@ -10,3 +10,10 @@
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/obj/Debug/net5.0/LetsPackIt.Infrastructure.dll
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/obj/Debug/net5.0/ref/LetsPackIt.Infrastructure.dll
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/obj/Debug/net5.0/LetsPackIt.Infrastructure.pdb
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Application.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Domain.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Shared.Abstractions.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Application.pdb
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Domain.pdb
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Shared.Abstractions.pdb
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/obj/Debug/net5.0/LetsPackIt.Infrastructure.csproj.CopyComplete

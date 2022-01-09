@@ -325,12 +325,45 @@
           "LetsPackIt.Api.dll": {}
         }
       },
+      "LetsPackIt.Application/1.0.0": {
+        "dependencies": {
+          "LetsPackIt.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LetsPackIt.Application.dll": {}
+        },
+        "compile": {
+          "LetsPackIt.Application.dll": {}
+        }
+      },
+      "LetsPackIt.Domain/1.0.0": {
+        "dependencies": {
+          "LetsPackIt.Shared.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "LetsPackIt.Domain.dll": {}
+        },
+        "compile": {
+          "LetsPackIt.Domain.dll": {}
+        }
+      },
       "LetsPackIt.Infrastructure/1.0.0": {
+        "dependencies": {
+          "LetsPackIt.Application": "1.0.0"
+        },
         "runtime": {
           "LetsPackIt.Infrastructure.dll": {}
         },
         "compile": {
           "LetsPackIt.Infrastructure.dll": {}
+        }
+      },
+      "LetsPackIt.Shared.Abstractions/1.0.0": {
+        "runtime": {
+          "LetsPackIt.Shared.Abstractions.dll": {}
+        },
+        "compile": {
+          "LetsPackIt.Shared.Abstractions.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2039,7 +2072,22 @@
       "serviceable": false,
       "sha512": ""
     },
+    "LetsPackIt.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LetsPackIt.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "LetsPackIt.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LetsPackIt.Shared.Abstractions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
