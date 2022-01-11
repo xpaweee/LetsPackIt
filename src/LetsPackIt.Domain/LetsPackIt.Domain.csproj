@@ -8,4 +8,9 @@
       <ProjectReference Include="..\LetsPackIt.Shared.Abstractions\LetsPackIt.Shared.Abstractions.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Policies\Temperature" />
+      <Folder Include="Policies\Universal" />
+    </ItemGroup>
+
 </Project>
