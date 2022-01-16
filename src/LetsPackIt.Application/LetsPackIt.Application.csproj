@@ -6,6 +6,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\LetsPackIt.Domain\LetsPackIt.Domain.csproj" />
+      <ProjectReference Include="..\LetsPackIt.Shared\LetsPackIt.Shared.csproj" />
     </ItemGroup>
 
 </Project>

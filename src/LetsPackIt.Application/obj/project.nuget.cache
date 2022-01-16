@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PhiXSTL5ZscQj7SYFw2E2XPlklx/8hmBCuOZwyxI5Rh6RvFgHa3Jo6ChdTFzvv7j6wmeSSziD2MKEm4qTvf2Xw==",
+  "dgSpecHash": "P8EmklwsVJyle86ca7JFGY7gDAYZf2uwu2BXW8nqyUmH9qKnaM7hVouppGcSiK+RtRpPd9PS9qbimKPK0AT6lA==",
   "success": true,
   "projectFilePath": "/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Application/LetsPackIt.Application.csproj",
   "expectedPackageFiles": [
+    "/Users/xpaweee/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.9/microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "/Users/xpaweee/.nuget/packages/microsoft.extensions.dependencymodel/3.1.6/microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "/Users/xpaweee/.nuget/packages/scrutor/3.3.0/scrutor.3.3.0.nupkg.sha512",
+    "/Users/xpaweee/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
     "/Users/xpaweee/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []

@@ -7,7 +7,7 @@ using LetsPackIt.Domain.ValueObjects;
 
 namespace LetsPackIt.Domain.Factories
 {
-    internal class PackingListFactory : IPackingListFactory
+    public sealed class PackingListFactory : IPackingListFactory
     {
         private readonly IEnumerable<IPackingItemsPolicy> _policies;
 
