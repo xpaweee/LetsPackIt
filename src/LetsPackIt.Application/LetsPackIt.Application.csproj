@@ -9,4 +9,8 @@
       <ProjectReference Include="..\LetsPackIt.Shared\LetsPackIt.Shared.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Queries" />
+    </ItemGroup>
+
 </Project>
