@@ -20,6 +20,11 @@ namespace LetsPackIt.Domain.Entities
         // {
         //     AddItems(packingItems);
         // }
+        
+        // EF
+        private PackingList()
+        {
+        }
 
         internal PackingList(Guid id,PackingListName name, Localization localization )
         {
