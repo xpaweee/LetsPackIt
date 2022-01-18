@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "fmP5u92qLyGja7+3f1QE/p13dyqvYdXIai4jcX9FZ3urxdpOzr2WZYsG12RaFrdWrq5BtKrgPNVzo+bq8Ml7vw==",
+  "dgSpecHash": "0teMU6azfLDN4BAgKvjIxpHXbyIIpcxSfUjx5hngMpEsB4Fx2W6xIM7AQHpjQd7lYI7FtIBZORz4skU1TnJMcA==",
   "success": true,
   "projectFilePath": "/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Api/LetsPackIt.Api.csproj",
   "expectedPackageFiles": [
+    "/Users/xpaweee/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/xpaweee/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/xpaweee/.nuget/packages/microsoft.entityframeworkcore/5.0.13/microsoft.entityframeworkcore.5.0.13.nupkg.sha512",
     "/Users/xpaweee/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.13/microsoft.entityframeworkcore.abstractions.5.0.13.nupkg.sha512",
     "/Users/xpaweee/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.13/microsoft.entityframeworkcore.analyzers.5.0.13.nupkg.sha512",
-    "/Users/xpaweee/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.10/microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512",
+    "/Users/xpaweee/.nuget/packages/microsoft.entityframeworkcore.design/5.0.13/microsoft.entityframeworkcore.design.5.0.13.nupkg.sha512",
+    "/Users/xpaweee/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.13/microsoft.entityframeworkcore.relational.5.0.13.nupkg.sha512",
     "/Users/xpaweee/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "/Users/xpaweee/.nuget/packages/microsoft.extensions.caching.memory/5.0.0/microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "/Users/xpaweee/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

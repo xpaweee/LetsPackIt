@@ -1,4 +1,6 @@
+using LetsPackIt.Application.Services;
 using LetsPackIt.Infrastructure.EF;
+using LetsPackIt.Infrastructure.Services;
 using LetsPackIt.Shared;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -11,6 +13,8 @@ namespace LetsPackIt.Infrastructure
         {
             serviceCollection.AddPostgres(configuration);
             serviceCollection.AddQueries();
+
+            serviceCollection.AddSingleton<IWeatherService, WeatherService>();
                 
             return serviceCollection;
         }

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using LetsPackIt.Application;
 using LetsPackIt.Infrastructure;
+using LetsPackIt.Shared;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -25,6 +26,7 @@ namespace LetsPackIt.Api
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddShared();
             services.AddApplication();
             services.AddInfrastructure(Configuration);
             services.AddControllers();

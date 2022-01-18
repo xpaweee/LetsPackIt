@@ -11,7 +11,12 @@
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/obj/Debug/net5.0/ref/LetsPackIt.Shared.dll
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/obj/Debug/net5.0/LetsPackIt.Shared.pdb
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/bin/Debug/net5.0/LetsPackIt.Shared.Abstractions.dll
-/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/bin/Debug/net5.0/LetsPackIt.Shared.Abstractions.pdb
-/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/obj/Debug/net5.0/LetsPackIt.Shared.csproj.CopyComplete
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/bin/Debug/net5.0/LetsPackIt.Shared.runtimeconfig.json
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/bin/Debug/net5.0/LetsPackIt.Shared.runtimeconfig.dev.json
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/bin/Debug/net5.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/bin/Debug/net5.0/Microsoft.Extensions.Hosting.Abstractions.xml
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.xml
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Shared/obj/Debug/net5.0/LetsPackIt.Shared.genruntimeconfig.cache

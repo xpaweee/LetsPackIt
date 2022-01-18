@@ -4,6 +4,7 @@ using LetsPackIt.Shared.Abstractions.Commands;
 using LetsPackIt.Shared.Abstractions.Queries;
 using LetsPackIt.Shared.Commands;
 using LetsPackIt.Shared.Queries;
+using LetsPackIt.Shared.Services;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace LetsPackIt.Shared
@@ -33,6 +34,12 @@ namespace LetsPackIt.Shared
                 .AsImplementedInterfaces()
                 .WithScopedLifetime());
             
+            return services;
+        }
+        
+        public static IServiceCollection AddShared(this IServiceCollection services)
+        {
+            services.AddHostedService<AppInitializer>();
             return services;
         }
     }

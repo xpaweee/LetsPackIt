@@ -17,3 +17,9 @@
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Domain.pdb
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Shared.Abstractions.pdb
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/obj/Debug/net5.0/LetsPackIt.Infrastructure.csproj.CopyComplete
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Shared.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Shared.pdb
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/Microsoft.Extensions.Hosting.Abstractions.xml
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.xml
