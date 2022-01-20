@@ -23,3 +23,9 @@
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/LetsPackIt.Shared.pdb
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/Microsoft.Extensions.Hosting.Abstractions.xml
 /Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.xml
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/Microsoft.AspNetCore.Http.Features.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/System.IO.Pipelines.dll
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/Microsoft.AspNetCore.Http.Abstractions.xml
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/Microsoft.AspNetCore.Http.Features.xml
+/Users/xpaweee/Desktop/LetsPackIt/src/LetsPackIt.Infrastructure/bin/Debug/net5.0/System.IO.Pipelines.xml

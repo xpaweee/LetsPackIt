@@ -30,6 +30,7 @@ namespace LetsPackIt.Api
             services.AddApplication();
             services.AddInfrastructure(Configuration);
             services.AddControllers();
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -40,7 +41,13 @@ namespace LetsPackIt.Api
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseHttpsRedirection();
+            
+            app.UseShared();
+            
             app.UseRouting();
+
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
