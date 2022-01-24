@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace LetsPackIt.Infrastructure
 {
-    public static class Extensions
+    public static class Extensions  
     {
         public static IServiceCollection AddInfrastructure(this IServiceCollection serviceCollection, IConfiguration configuration)
         {
